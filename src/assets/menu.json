@@ -1,0 +1,24 @@
+[
+    {
+      "name": "Cheeseburger",
+      "kCal": "850 kCal" ,
+      "lactose": "Innehåller Lactose" ,
+      "gluten": "Innehåller gluten" ,
+      "img": "hamburgare1.jpg"
+    },
+    {
+        "name": "Halloumiburger",
+        "kCal": "400 kCal",
+        "lactose": "Innehåller Lactose",
+        "gluten": "Glutenfri",
+        "img": "Halloumi.jpg"
+    },
+    {
+        "name": "Chickenburger",
+        "kCal": "500 kCal",
+        "lactose": "Innehåller Lactose",
+        "gluten": "Innehåller gluten",
+        "img": "chickenburger.jpg"
+    }
+  ]
+
